@@ -73,23 +73,23 @@ git clone https://github.com/ChiragChaudhary01/Track-My-Job
 cd <REPO-NAME>
 ```
 
-2️⃣ Install Dependencies
+**2️⃣ Install Dependencies**
 
-Frontend
+**Frontend**
 
 > cd client
 > npm install
 
-Backend
+**Backend**
 
 > cd ../server
 > npm install
 
-Frontend (client/.env):
+**Frontend (client/.env):**
 
 > VITE_API_URL=http://localhost:5000
 
-Backend (server/.env):
+**Backend (server/.env):**
 
 > PORT=5000
 > MONGO_URI=your_mongodb_connection_string
@@ -97,7 +97,7 @@ Backend (server/.env):
 > EMAIL_USER=your_email@example.com
 > EMAIL_PASS=your_email_app_password
 
-4️⃣ Run the Project
+**4️⃣ Run the Project**
 Backend
 
 > cd server
@@ -139,5 +139,5 @@ This project is licensed under the MIT License.
 
 🙋‍♂️ Author
 Chirag Chaudhary
-💼 LinkedIn
-🐙 GitHub
+[💼 LinkedIn](https://example.com)
+[🐙 GitHub](https://github.com/ChiragChaudhary01)
